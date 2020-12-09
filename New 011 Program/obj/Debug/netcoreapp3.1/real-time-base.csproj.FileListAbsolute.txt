@@ -1,0 +1,13 @@
+K:\Assignments\OOP\Assignment 011\real-time-base-main\bin\Debug\netcoreapp3.1\real-time-base.exe
+K:\Assignments\OOP\Assignment 011\real-time-base-main\bin\Debug\netcoreapp3.1\real-time-base.deps.json
+K:\Assignments\OOP\Assignment 011\real-time-base-main\bin\Debug\netcoreapp3.1\real-time-base.runtimeconfig.json
+K:\Assignments\OOP\Assignment 011\real-time-base-main\bin\Debug\netcoreapp3.1\real-time-base.runtimeconfig.dev.json
+K:\Assignments\OOP\Assignment 011\real-time-base-main\bin\Debug\netcoreapp3.1\real-time-base.dll
+K:\Assignments\OOP\Assignment 011\real-time-base-main\bin\Debug\netcoreapp3.1\real-time-base.pdb
+K:\Assignments\OOP\Assignment 011\real-time-base-main\obj\Debug\netcoreapp3.1\real-time-base.csprojAssemblyReference.cache
+K:\Assignments\OOP\Assignment 011\real-time-base-main\obj\Debug\netcoreapp3.1\real-time-base.AssemblyInfoInputs.cache
+K:\Assignments\OOP\Assignment 011\real-time-base-main\obj\Debug\netcoreapp3.1\real-time-base.AssemblyInfo.cs
+K:\Assignments\OOP\Assignment 011\real-time-base-main\obj\Debug\netcoreapp3.1\real-time-base.csproj.CoreCompileInputs.cache
+K:\Assignments\OOP\Assignment 011\real-time-base-main\obj\Debug\netcoreapp3.1\real-time-base.dll
+K:\Assignments\OOP\Assignment 011\real-time-base-main\obj\Debug\netcoreapp3.1\real-time-base.pdb
+K:\Assignments\OOP\Assignment 011\real-time-base-main\obj\Debug\netcoreapp3.1\real-time-base.genruntimeconfig.cache
